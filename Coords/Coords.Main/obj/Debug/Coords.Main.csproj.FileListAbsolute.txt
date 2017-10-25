@@ -1,0 +1,9 @@
+c:\Users\Lovvorn\documents\visual studio 2017\Projects\Coords\Coords.Main\bin\Debug\Coords.Main.exe.config
+c:\Users\Lovvorn\documents\visual studio 2017\Projects\Coords\Coords.Main\bin\Debug\Coords.Main.exe
+c:\Users\Lovvorn\documents\visual studio 2017\Projects\Coords\Coords.Main\bin\Debug\Coords.Main.pdb
+c:\Users\Lovvorn\documents\visual studio 2017\Projects\Coords\Coords.Main\bin\Debug\Coords.dll
+c:\Users\Lovvorn\documents\visual studio 2017\Projects\Coords\Coords.Main\bin\Debug\Coords.pdb
+c:\Users\Lovvorn\documents\visual studio 2017\Projects\Coords\Coords.Main\obj\Debug\Coords.Main.csprojResolveAssemblyReference.cache
+c:\Users\Lovvorn\documents\visual studio 2017\Projects\Coords\Coords.Main\obj\Debug\Coords.Main.csproj.CoreCompileInputs.cache
+c:\Users\Lovvorn\documents\visual studio 2017\Projects\Coords\Coords.Main\obj\Debug\Coords.Main.exe
+c:\Users\Lovvorn\documents\visual studio 2017\Projects\Coords\Coords.Main\obj\Debug\Coords.Main.pdb
